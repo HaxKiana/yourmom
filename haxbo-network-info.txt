@@ -20,7 +20,6 @@ fd7a:115c:a1e0::4701:206d    Tailscale                                   IPv6
 
 
 
-
 IP Address Information:
 
 IPAddress                    InterfaceAlias                     AddressFamily
@@ -43,30 +42,28 @@ fd7a:115c:a1e0::4701:206d    Tailscale                                   IPv6
 
 
 
-
 DNS Server Addresses:
 
-InterfaceAlias                     ServerAddresses                                       
---------------                     ---------------                                       
-Ethernet                           {1.1.1.1, 1.0.0.1}                                    
-Ethernet                           {}                                                    
-Tailscale                          {}                                                    
+InterfaceAlias                     ServerAddresses
+--------------                     ---------------
+Ethernet                           {1.1.1.1, 1.0.0.1}
+Ethernet                           {}
+Tailscale                          {}
 Tailscale                          {fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3}
-Ethernet 2                         {}                                                    
+Ethernet 2                         {}
 Ethernet 2                         {fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3}
-Ethernet 3                         {}                                                    
+Ethernet 3                         {}
 Ethernet 3                         {fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3}
-Local Area Connection* 1           {}                                                    
-Local Area Connection* 1           {}                                                    
-Local Area Connection* 3           {}                                                    
-Local Area Connection* 3           {}                                                    
-Wi-Fi                              {192.168.1.71, 192.168.1.71}                          
-Wi-Fi                              {}                                                    
-Loopback Pseudo-Interface 1        {}                                                    
+Local Area Connection* 1           {}
+Local Area Connection* 1           {}
+Local Area Connection* 3           {}
+Local Area Connection* 3           {}
+Wi-Fi                              {192.168.1.71, 192.168.1.71}
+Wi-Fi                              {}
+Loopback Pseudo-Interface 1        {}
 Loopback Pseudo-Interface 1        {fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3}
-vEthernet (WSL (Hyper-V firewall)) {}                                                    
+vEthernet (WSL (Hyper-V firewall)) {}
 vEthernet (WSL (Hyper-V firewall)) {fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3}
-
 
 
 
@@ -81,21 +78,24 @@ AS855 Bell Canada
 
 Wi-Fi Information:
 
-SSID                  Password     
-----                  --------     
-Eclipse               tran0987     
-Nighthawk-Guest       tran1234     
+SSID                  Password
+----                  --------
+Eclipse               tran0987
+Nighthawk-Guest       tran1234
 Do Not Use            Mo@12098!@#@!
-Nighthawk             tran1234     
-BELL914               tran1234     
-wireless_5G           4162449927   
-Hoverboard            4163715583A  
-HighSchool_Public     keepactive   
-SM-G930W88829         vtms6861     
-dlink-78EC            kpqwh80288   
-Dung's iPhone                      
-dlink-78EC-5GHz                    
-dlink-78EC-5GHz-EXT                
-dlink-78EC-5GHz-EXT5G              
+Nighthawk             tran1234
+BELL914               tran1234
+wireless_5G           4162449927
+Hoverboard            4163715583A
+HighSchool_Public     keepactive
+SM-G930W88829         vtms6861
+dlink-78EC            kpqwh80288
+Dung's iPhone         
+dlink-78EC-5GHz       
+dlink-78EC-5GHz-EXT   
+dlink-78EC-5GHz-EXT5G 
 
 
+
+Location Information:
+City: Dartmouth, Region: Nova Scotia, Country: Canada, Latitude: 44.6747, Longitude: -63.5094

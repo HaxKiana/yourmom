@@ -1,0 +1,79 @@
+Network Adapter Information:
+
+IPAddress                    InterfaceAlias              AddressFamily
+---------                    --------------              -------------
+fe80::ce70:aacd:5b00:ba89%38 Tailscale                            IPv6
+fd7a:115c:a1e0::4701:206d    Tailscale                            IPv6
+::1                          Loopback Pseudo-Interface 1          IPv6
+169.254.4.92                 Local Area Connection* 3             IPv4
+169.254.120.98               Local Area Connection* 1             IPv4
+100.77.32.109                Tailscale                            IPv4
+169.254.234.216              Ethernet                             IPv4
+192.168.1.4                  Wi-Fi                                IPv4
+127.0.0.1                    Loopback Pseudo-Interface 1          IPv4
+
+
+
+IP Address Information:
+
+IPAddress                    InterfaceAlias              AddressFamily
+---------                    --------------              -------------
+fe80::ce70:aacd:5b00:ba89%38 Tailscale                            IPv6
+fd7a:115c:a1e0::4701:206d    Tailscale                            IPv6
+::1                          Loopback Pseudo-Interface 1          IPv6
+169.254.4.92                 Local Area Connection* 3             IPv4
+169.254.120.98               Local Area Connection* 1             IPv4
+100.77.32.109                Tailscale                            IPv4
+169.254.234.216              Ethernet                             IPv4
+192.168.1.4                  Wi-Fi                                IPv4
+127.0.0.1                    Loopback Pseudo-Interface 1          IPv4
+
+
+
+DNS Server Addresses:
+
+InterfaceAlias              ServerAddresses
+--------------              ---------------
+Ethernet                    {1.1.1.1, 1.0.0.1}
+Ethernet                    {}
+Tailscale                   {}
+Tailscale                   {fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3}
+Local Area Connection* 1    {}
+Local Area Connection* 1    {}
+Local Area Connection* 3    {}
+Local Area Connection* 3    {}
+Wi-Fi                       {192.168.1.1}
+Wi-Fi                       {}
+Loopback Pseudo-Interface 1 {}
+Loopback Pseudo-Interface 1 {fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3}
+
+
+
+Public IPv4 Address:
+134.41.126.35
+
+Geo Information:
+City: Dartmouth, Region: Nova Scotia, Country: CA
+
+ISP Information:
+AS855 Bell Canada
+
+Wi-Fi Information:
+
+SSID                  Password
+----                  --------
+Eclipse               tran0987
+Nighthawk-Guest       tran1234
+Do Not Use            Mo@12098!@#@!
+Nighthawk             tran1234
+BELL914               tran1234
+wireless_5G           4162449927
+Hoverboard            4163715583A
+HighSchool_Public     keepactive
+SM-G930W88829         vtms6861
+dlink-78EC            kpqwh80288
+DungΓÇÖs iPhone       
+dlink-78EC-5GHz       
+dlink-78EC-5GHz-EXT   
+dlink-78EC-5GHz-EXT5G 
+
